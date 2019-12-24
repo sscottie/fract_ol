@@ -7,7 +7,7 @@ Fractal 2D visualizator with OpenCL
 * Couple color themes
 * Works on OpenCL - fast and fluent
 
-## Compilling and running
+## Compiling and running
 
 1. git clone this project
 2. Run make. Works on Linux and MacOs
